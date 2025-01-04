@@ -10,7 +10,7 @@ const Navbar = () => {
   const navItems = (
     <>
       <li><Link to="/">Home</Link></li>
-      <li><Link to="/only-for-you">OnlyForYou</Link></li>
+      <li><Link to="/onlyFans">OnlyForYou</Link></li>
       <li><Link to="/contact">Contact</Link></li>
       <li><Link to="/about">About</Link></li>
       <li><Link to="/profile">Profile</Link></li>
